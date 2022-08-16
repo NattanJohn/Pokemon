@@ -7,8 +7,8 @@
 Status do Projeto: Concluido :heavy_check_mark:
 
 
-## Deploy da Aplicação com Netlify: :dash:
-https://pokemon-nattanjohn.netlify.app/
+## Deploy da Aplicação com GitHub Pages: :dash:
+https://nattanjohn.github.io/Pokemon/
 
 
 ## O que a plataforma é capaz de fazer :checkered_flag:
